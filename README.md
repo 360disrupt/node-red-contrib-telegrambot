@@ -17,20 +17,6 @@ If you want to support this free project. Any help is welcome. You can donate by
 <a target="blank" href="https://blockchain.com/btc/payment_request?address=1PBi7BoZ1mBLQx4ePbwh1MVoK2RaoiDsp5"><img src="https://img.shields.io/badge/Donate-Bitcoin-green.svg"/></a>
 <a target="blank" href="https://www.paypal.me/windkh"><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg"/></a>
 
-
-# Live support
-
-## Get help
-
-If you have an urgent problem, hire a mentor for a 1:1 live session on Git-Start:
-[![Get 1:1 live support for your issue.](https://git-start.com/assets/git-start-mentee-banner-medium.svg?sanitize=true)](https://git-start.com/help-request/create/windkh%2Fnode-red-contrib-telegrambot)
-
-## Provide help
-
-Help others in paid 1:1 live sessions to get started.
-[![Give paid 1:1 live support.](https://git-start.com/assets/git-start-mentor-banner-medium.svg?sanitize=true)](https://git-start.com/help-request/overview/windkh%2Fnode-red-contrib-telegrambot)
-
-
 # Credits
 dvv (Vladimir Dronnikov) for providing the saveDataDir configuration option.
 snippet-java for adding venue messages. And for providing the markdown problem fallback.
